@@ -1,7 +1,6 @@
 import React from 'react'
 import Banner from '../Components/Banner'
 import Features from '../Components/Features'
-import Footer from '../Components/Footer'
 import HowItWorks from '../Components/HowItWorks'
 import Pricing from '../Components/Pricing'
 import Testimonial from '../Components/Testimonial'

@@ -36,7 +36,7 @@ export default function Category({
           </Link>
         </div>
         <div>
-          <img src={img} className="w-full" alt="body-image" />
+          <img src={img} className="w-full" alt="body" />
         </div>
       </div>
 
@@ -123,7 +123,7 @@ function Series({ seriesImg, level, seriesCourses }) {
         <img
           src={seriesImg}
           className="h-20 mr-5 mb-5 lg:mb-0"
-          alt="Series Image"
+          alt="Series"
         />
         <div>
           <h1 className="text-lg font-bold">Master Hiragana & Katakana</h1>
