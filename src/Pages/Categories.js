@@ -42,15 +42,6 @@ export default function Categories() {
         series="7"
         des="Learn the 6,000 most common Japanese words. Each item features an example sentence and audio from two popular Japanese voice talents. Master these 6,000 words to master Japanese!"
       />
-      <Category
-        img="/img/Japenese6000.png"
-        title="Japenese Core 6000"
-        titleDes="learn the words & characters necessary for reading japanese newspaper."
-        icon="/img/grammer.png"
-        courses="62"
-        series="7"
-        des="Learn the 6,000 most common Japanese words. Each item features an example sentence and audio from two popular Japanese voice talents. Master these 6,000 words to master Japanese!"
-      />
     </div>
   );
 }
